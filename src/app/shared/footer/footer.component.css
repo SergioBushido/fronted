@@ -1,0 +1,11 @@
+.custom-footer {
+    background-color: #e9ecef; 
+    padding: 20px 0; 
+    margin-top: 15px; 
+    bottom: 0; 
+    width: 100%; 
+  
+  .custom-footer p {
+    margin: 0; 
+  }
+}
